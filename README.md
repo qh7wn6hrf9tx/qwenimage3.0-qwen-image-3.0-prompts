@@ -2,7 +2,7 @@
 
 > **default $0.0206; 1K $0.0206; 2K $0.0206** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-efb92a)** · **[Get an API key](https://go.apimart.ai/k-e5de65)**
 
 Everything here refers to **qwen-image-3.0** — also written **qwenimage3.0** or **qwen image 3.0**.
 
